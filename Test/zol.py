@@ -2,7 +2,7 @@
 import urllib.request
 from bs4 import BeautifulSoup
 import http.cookiejar
-
+#未完成
 cj = http.cookiejar.CookieJar()
 openner = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj))
 res = openner.open(r"http://xiazai.zol.com.cn/detail/34/333261.shtml")
