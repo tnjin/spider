@@ -1,0 +1,6 @@
+# spider
+python爬虫练手项目
+这是最近学习Python爬虫做的几个练手项目
+#car_home是爬取汽车之家的车型数据，并输出到excel中
+#kaifang是爬取多线程爬取两千万开房数据，并存储为文本
+#tianya_im_not_human是爬取天涯的一个帖子，只爬取楼主发帖
